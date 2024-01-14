@@ -2,6 +2,8 @@
 
 <h1>MotionDiffuseDCT: Investigating Dynamical Representations for Human Motion Generation</h1>
 
+This project is a variant of the MotionDiffuse framework, aiming to enhance diffusion-based human motion generation models. We propose an approach where diffusion is carried out in a dynamical space with lower dimensionality, utilizing the Discrete Cosine Transform (DCT). This allows us to leverage the efficiency of classical dynamical representations, reducing the computational burden associated with video processing applications.
+
 # Original Project
 <h1>MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model</h1>
 
