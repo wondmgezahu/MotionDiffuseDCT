@@ -3,8 +3,11 @@
 
 This project is a variant of the MotionDiffuse framework, aiming to enhance diffusion-based human motion generation models. We propose an approach where diffusion is carried out in a dynamical space with lower dimensionality, utilizing the Discrete Cosine Transform (DCT). This allows us to leverage the efficiency of classical dynamical representations, reducing the computational burden associated with video processing applications.
 
+
+
 <div align="center">
-    
+
+Below is the content from the original project. For citations or any other references, please refer to their original README file below   
 # Original Project
 <h1>MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model</h1>
 
