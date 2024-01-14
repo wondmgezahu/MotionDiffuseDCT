@@ -1,5 +1,8 @@
 <div align="center">
 
+<h1>MotionDiffuseDCT: Investigating Dynamical Representations for Human Motion Generation</h1>
+
+# Original Project
 <h1>MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model</h1>
 
 <div>
