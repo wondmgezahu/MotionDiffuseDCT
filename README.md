@@ -5,8 +5,8 @@ This project is a variant of the MotionDiffuse framework, aiming to enhance diff
 
 
 Below is the content from the original project. For citations or any other references, please refer to their original README file below   
-<div align="center">
 # Original Project
+<div align="center">
 <h1>MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model</h1>
 
 <div>
